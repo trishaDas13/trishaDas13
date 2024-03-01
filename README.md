@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **Slide into my DMs on LinkedIn here or shoot me an email at your.email@example.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!**
+- 📫 How to reach me **Slide into my DMs on LinkedIn here or shoot me an email at trisha.das1308@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nU3g6nOSTIoRA3ELHWJnhyd4__O35GUL/edit?usp=sharing&ouid=112823657941827759314&rtpof=true&sd=true](https://docs.google.com/document/d/1nU3g6nOSTIoRA3ELHWJnhyd4__O35GUL/edit?usp=sharing&ouid=112823657941827759314&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I'm not glued to my screen coding away, you can find me attempting daring culinary experiments in the kitchen, hiking through nature trails with my trusty sidekick (aka my dog), or losing myself in the pages of a gripping sci-fi novel.**
+- ⚡ Fun fact **I'm not glued to my screen coding away, you can find me attempting daring culinary experiments in the kitchen, hiking through nature trails with my trusty sidekick (aka my dog), or losing myself in the pages of novels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
