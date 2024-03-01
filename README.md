@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-<img align='right' src='https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif' alt='coding gif' width='500px'/>
+<img align='right' src='https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif' alt='coding gif' width='450px'/>
 
 I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br>👨‍💻 All of my projects are available at [Portfolio](https://portfolio-eight-mu-31.vercel.app/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn here or shoot me an email at trisha.das1308@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://docs.google.com/document/d/1nU3g6nOSTIoRA3ELHWJnhyd4__O35GUL/edit?usp=sharing&ouid=112823657941827759314&rtpof=true&sd=true)<br><br>⚡ Fun fact I'm not glued to my screen coding away, you can find me attempting daring culinary experiments in the kitchen, hiking through nature trails with my trusty sidekick (aka my dog), or losing myself in the pages of novels.
 
