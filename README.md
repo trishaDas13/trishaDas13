@@ -29,6 +29,6 @@ I’m currently working on Developing innovative web applications and projects t
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=trishaDas13&icon=4&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=trishaDas13&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
