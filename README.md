@@ -1,6 +1,6 @@
 <img src='https://media.licdn.com/dms/image/D4D16AQEV7crIOmlAwg/profile-displaybackgroundimage-shrink_350_1400/0/1702317529941?e=1714608000&v=beta&t=DysScfiJpUp4IZDFddhMBhVgKCgkQ6LP8ksBnBDGaSk' alt='cover image' />
 
-<h3 align='center'> I'm Trisha Das, a passionate MERN Stack Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js.From crafting seamless front-end interfaces to building robust back-end systems, I thrive on transforming complex challenges into elegant code.</h3> 
+<h3 align='center'> I'm Trisha Das, a passionate Frontend Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js.From crafting seamless front-end interfaces to building robust back-end systems, I thrive on transforming complex challenges into elegant code.</h3> 
 
 ## 💫 About Me:
 
